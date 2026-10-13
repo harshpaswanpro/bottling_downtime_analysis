@@ -1,0 +1,51 @@
+Batch,Factor,DowntimeMinutes,Description,Operator Error
+422111,2,60.0,Batch change,Yes
+422112,2,20.0,Batch change,Yes
+422113,2,50.0,Batch change,Yes
+422117,2,10.0,Batch change,Yes
+422130,2,20.0,Batch change,Yes
+422145,3,22.0,Labeling error,No
+422114,4,25.0,Inventory shortage,No
+422119,4,25.0,Inventory shortage,No
+422120,4,20.0,Inventory shortage,No
+422123,4,43.0,Inventory shortage,No
+422131,4,20.0,Inventory shortage,No
+422135,4,30.0,Inventory shortage,No
+422147,4,17.0,Inventory shortage,No
+422148,4,25.0,Inventory shortage,No
+422120,5,15.0,Product spill,Yes
+422124,5,20.0,Product spill,Yes
+422128,5,22.0,Product spill,Yes
+422114,6,15.0,Machine adjustment,Yes
+422117,6,5.0,Machine adjustment,Yes
+422118,6,14.0,Machine adjustment,Yes
+422124,6,20.0,Machine adjustment,Yes
+422127,6,23.0,Machine adjustment,Yes
+422144,6,30.0,Machine adjustment,Yes
+422146,6,30.0,Machine adjustment,Yes
+422147,6,60.0,Machine adjustment,Yes
+422111,7,15.0,Machine failure,No
+422118,7,16.0,Machine failure,No
+422121,7,15.0,Machine failure,No
+422122,7,25.0,Machine failure,No
+422123,7,30.0,Machine failure,No
+422128,7,30.0,Machine failure,No
+422133,7,20.0,Machine failure,No
+422134,7,30.0,Machine failure,No
+422146,7,25.0,Machine failure,No
+422147,7,30.0,Machine failure,No
+422112,8,20.0,Batch coding error,Yes
+422126,8,44.0,Batch coding error,Yes
+422134,8,20.0,Batch coding error,Yes
+422144,8,24.0,Batch coding error,Yes
+422148,8,7.0,Batch coding error,Yes
+422120,9,17.0,Conveyor belt jam,No
+422115,10,24.0,Calibration error,Yes
+422131,10,10.0,Calibration error,Yes
+422118,11,10.0,Label switch,Yes
+422125,11,10.0,Label switch,Yes
+422118,12,20.0,Other,No
+422125,12,10.0,Other,No
+422129,12,15.0,Other,No
+422135,12,15.0,Other,No
+422146,12,7.0,Other,No
